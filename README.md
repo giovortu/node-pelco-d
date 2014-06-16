@@ -7,10 +7,16 @@ Implementation of the Pelco-D protocol for node.js
 Status
 ------
 
-The project is basically dead, I'm not working on it anymore.
+Resumed development, implemented some missing messages, more to be added.
+
+
+TODO
+-------
+
+Implement multi standard protocol ( Samsung...? )
 
 
 Licence
 -------
 
-This project is licenced under the [GPL v2](http://www.gnu.org/licenses/gpl-2.0.txt).
+This project is licenced under the [LGPL v2](http://www.gnu.org/licenses/lgpl-2.0.txt).
